@@ -1,0 +1,26 @@
+{
+  "RolimonsTradeAds": {
+    "userId": 1,
+    "roliVerification": "cookie",
+    "offerItems": [1081239, 928908332],
+    "offerRobux": null,
+    "requestTags": ["any"],
+    "requestItems": []
+  },
+  "RoProTradeAds": {
+    "userId": "",
+    "phpsessid": "",
+    "roproId": "roblox userid",
+    "roproVerification": "token",
+    "request1": "-8",
+    "request2": "-1",
+    "request3": "-1",
+    "request4": "-1",
+    "requestValue": "0",
+    "offer1": "1365767",
+    "offer2": "-1",
+    "offer3": "-1",
+    "offer4": "-1",
+    "message": ""
+  }
+}
