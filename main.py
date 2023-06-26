@@ -6,7 +6,7 @@ from colorama import Fore, init
 from datetime import datetime
 init()
 
-os.system("title rec")
+os.system("title trade ad bot")
 
 
 def info(msg): print(f"{Fore.LIGHTBLACK_EX}{datetime.now().strftime('%H:%M:%S')} {Fore.LIGHTBLUE_EX}[INFO]{Fore.RESET} {msg}")
